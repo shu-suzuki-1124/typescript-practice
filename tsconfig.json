@@ -10,6 +10,7 @@
       "es6",
       "dom"
     ],
+    "experimentalDecorators": true,
     "rootDir": "src",
     "moduleResolution": "node"
   }
